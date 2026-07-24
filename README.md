@@ -99,6 +99,10 @@ AEO and GEO readiness.
 
 <li>Keyword Research</li>
 
+<li>write SEO-friendly news articles</li>
+
+<1i>Publish articles using WordPress CMS</1i>
+
 <li>SEO Title Optimization</li>
 
 <li>Meta Description Writing</li>
@@ -122,6 +126,8 @@ AEO and GEO readiness.
 <li>AEO Optimization</li>
 
 <li>GEO Optimization</li>
+
+<1i>Google Web Stories Creation</1i>
 
 </ul>
 
