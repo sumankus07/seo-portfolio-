@@ -127,7 +127,7 @@ AEO and GEO readiness.
 
 <li>GEO Optimization</li>
 
-<1i>Google Web Stories Creation</1i>
+<li>Google Web Stories Creation</li>
 
 </ul>
 
