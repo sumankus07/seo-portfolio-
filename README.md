@@ -116,7 +116,7 @@ padding:20px;
 
 <header>
 
-<h1>Your Name</h1>
+<h1>Suman Kuswaha</h1>
 
 <p>SEO Executive | Technical SEO | AEO | GEO</p>
 
@@ -297,13 +297,13 @@ AEO and GEO readiness.
 
 <h2>Contact</h2>
 
-<p><strong>Name:</strong> Your Name</p>
+<p><strong>Name:</strong> Suman Kuswaha</p>
 
-<p><strong>Email:</strong> your@email.com</p>
+<p><strong>Email:</strong> sumankus0707@email.com</p>
 
-<p><strong>Phone:</strong> +91 XXXXX XXXXX</p>
+<p><strong>Phone:</strong> +91 7725068247</p>
 
-<p><strong>LinkedIn:</strong> linkedin.com/in/yourname</p>
+<p><strong>LinkedIn:</strong> linkedin.com/in/sumankuswaha</p>
 
 </section>
 
@@ -311,7 +311,7 @@ AEO and GEO readiness.
 
 <footer>
 
-© 2026 Your Name | SEO Portfolio
+© 2026 Suman Kuswaha | SEO Portfolio
 
 </footer>
 
