@@ -1,6 +1,5 @@
-# seo-portfolio-
-<header>
 
+<header>
 <h1>Suman Kuswaha</h1>
 
 <p>SEO Executive | Technical SEO | AEO | GEO</p>
