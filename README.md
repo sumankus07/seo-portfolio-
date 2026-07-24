@@ -101,7 +101,7 @@ AEO and GEO readiness.
 
 <li>write SEO-friendly news articles</li>
 
-<1i>Publish articles using WordPress CMS</1i>
+<li>Publish articles using WordPress CMS</li>
 
 <li>SEO Title Optimization</li>
 
